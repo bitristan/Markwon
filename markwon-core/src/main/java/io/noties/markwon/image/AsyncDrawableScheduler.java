@@ -11,7 +11,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import io.noties.markwon.R;
+import io.noties.markwon.core.R;
 
 public abstract class AsyncDrawableScheduler {
 
